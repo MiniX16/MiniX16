@@ -33,7 +33,7 @@ Here's a bit more about me, along with some stats and projects. I hope you enjoy
 
 <img align="right" src="https://github-readme-stats-liard-nu-21.vercel.app/api/top-langs/?username=MiniX16&layout=pie&theme=maroongold&hide=ShaderLab,HLSL" alt="Top Languages" style="width: 43%;"/>
 
-<img src="https://i.imgur.com/vs3KEYm.png" alt="Imagen a la derecha" style="width: 540px;"/>
+<img src="https://i.imgur.com/vs3KEYm.png" alt="Imagen a la derecha" style="width: 500px;"/>
 <img src="https://github-readme-stats-liard-nu-21.vercel.app/api?username=MiniX16&show_icons=true&theme=maroongold&hide=stars&hide_title=true&show=reviews,prs_merged&include_all_commits=true" alt="GitHub Stats" style="width: 53%;"/>
 
 ## 🚀 Projects
