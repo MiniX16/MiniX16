@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm MiniX16 but my real name is Javier. I'm deeply passionate about programming and continuous learning, especially in the fields of software development and Artificial Intelligence. I'm currently in my 3rd year of an AI degree at the University of Vigo, where my commitment to personal growth has driven me to excel in my studies.
 
+Beyond my academic journey, I am the co-founder and vice president of [Auria Technologies](https://auria.gal), a student-led association focused on technological innovation. Leading the development department, I work on projects that bring cutting-edge AI solutions to real-world applications, fostering collaboration and knowledge sharing.
+
 In addition to my studies, I've been working as a backend developer at [Roommatik](https://www.roommatik.com) for over a year. This experience has enriched my skills and knowledge, allowing me to apply my academic learning in a real-world environment.
 
 I thrive both in collaborative settings and working independently. My teamwork skills are well-reflected in my experience with [Uvigo Motorsport](https://www.uvigomotorsport.com), where I collaborated to achieve shared goals. At the same time, I enjoy taking on solo projects, showcasing my initiative and ability to work autonomously.
